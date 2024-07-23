@@ -12,9 +12,9 @@ cd weather-web-app
 npm install
 4.Start the development server:
 npm start
-#Usage
+# Usage
 Open your browser and navigate to http://localhost:3000 to start using the app. Enter a city name or zip code in the search bar to get the current weather and forecast.
-#Contributing
+# Contributing
 We welcome contributions from the community! If you'd like to contribute, please follow these steps:
 
  1.Fork the repository.
@@ -24,7 +24,7 @@ We welcome contributions from the community! If you'd like to contribute, please
  git commit -m "Description of your changes"
  4.Push to the branch:
  git push origin feature-branch-name
-#Contact
+# Contact
 If you have any questions or feedback, feel free to open an issue or contact us at mishrashivam9000@gmail.com.
 
 Thank you for visiting the Weather Web App repository! We hope you find this project useful and enjoyable to use.
